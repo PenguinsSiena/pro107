@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(175, 225, 245);
+    text-align: center;
+}
+.heading{
+    background-color: rgb(215, 238, 247);
+    color: rgb(21, 51, 73);
+    text-align: center;
+}
+p{
+    font-size: medium;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.main
+{
+    color: rgb(50, 83, 83); 
+    text-align: center;
+}
+button{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    width: 80px;
+    letter-spacing: 3px;   
+}
+.copy_right_footer{
+    background-color:rgb(215, 238, 247) ;
+    color: rgb(21, 51, 73);
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    font-size: 18px;
+    bottom: 0;
+    text-shadow: 3px 3px 3px rgb(94, 121, 141);
+}
+img{
+    margin-top: 15px;
+    width: 150px;
+}
